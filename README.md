@@ -1,1 +1,1 @@
-# Apple-Plant-Disease-Prediction-System-
+Apple Plant Disease Prediction System is a deep learning-based application that detects diseases in apple plant leaves using image processing techniques. Users upload a leaf image, and the system predicts whether the leaf is healthy or affected by diseases such as Apple Scab, Black Rot, or Cedar Apple Rust. The project helps farmers identify diseases early and take timely preventive measures to improve crop health and productivity.
